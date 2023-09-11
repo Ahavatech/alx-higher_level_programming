@@ -1,4 +1,5 @@
 #!/usr/bin/node
+
 // Check the number of arguments
 if (process.argv.length === 2) {
   // No arguments passed
